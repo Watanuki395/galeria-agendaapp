@@ -12,8 +12,8 @@ const myEventsList= [{
 },
 {
   title: "string",
-   start: new Date('2019-05-05 12:22:00'),
-  end: new Date('2019-05-05 13:42:00')
+   start: new Date('2021-05-05 12:22:00'),
+  end: new Date('2021-05-05 13:42:00')
 }]
 class EventsCalendar extends Component {
   render() {
